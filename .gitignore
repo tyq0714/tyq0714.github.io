@@ -1,0 +1,4 @@
+# git提交时筛选文件用
+node_modules
+docs/.vuepress/theme
+docs/.vuepress/dist
